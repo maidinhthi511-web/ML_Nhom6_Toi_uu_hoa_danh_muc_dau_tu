@@ -8,8 +8,7 @@ Dự án này sử dụng các thuật toán Học máy(Machine Learning): LSTM 
 Thực hiện các bước sau :
 1.  **Cài đặt môi trường (Clone Repository):**
     ```bash
-    git clone [https://github.com/](https://github.com/)[https://github.com/maidinhthi511-web/ML_Nhom6_Toi_uu_hoa_danh_muc_dau_tu.git]/ML_project_name.git
-    cd ML_project_name
+    git clone https://github.com/maidinhthi511-web/ML_Nhom6_Toi_uu_hoa_danh_muc_dau_tu.git cd ML_Nhom6_Toi_uu_hoa_danh_muc_dau_tu
     ```
 
 2.  **Cài đặt các thư viện cần thiết:**
